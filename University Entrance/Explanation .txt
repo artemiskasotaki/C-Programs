@@ -1,4 +1,4 @@
-For the Greek univercity exams the test is graded from two graders. 
+For the Greek univercity entrance exams the test is graded from two graders. 
 If both of the graders differance is less than 2 the final grade is the average of them both. 
 if the differance is bigger than 2 a 3rd grader also grades the test.
 in this case the final grade is the average of the 3rd grade and the grader that is the nearest to the 3rd one.

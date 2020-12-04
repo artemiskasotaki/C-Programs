@@ -1,0 +1,6 @@
+For the Greek univercity exams the test is graded from two graders. 
+If both of the graders differance is less than 2 the final grade is the average of them both. 
+if the differance is bigger than 2 a 3rd grader also grades the test.
+in this case the final grade is the average of the 3rd grade and the grader that is the nearest to the 3rd one.
+
+This program gets from the keyboard the two graders grade and checks if a 3rd grader is needed and calculates the final grade.

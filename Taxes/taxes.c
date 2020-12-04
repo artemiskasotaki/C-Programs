@@ -16,5 +16,5 @@ int main(void)
 		tax=1000*10/100+15000*25/100+(income-35000)*35/100;
 	
 	printf("The tax for the income %f is %f",income, tax);		
-		
+	return 0;
 }

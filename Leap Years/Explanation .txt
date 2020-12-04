@@ -1,0 +1,2 @@
+This program has a function that calculates if a year is leap or not.
+in the main function it gets a starting year and an ending year and calls the leap year function to find all the leap years in between the years given. 

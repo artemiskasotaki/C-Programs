@@ -1,0 +1,2 @@
+In this program the user gives from the keyboard a number. The program finds if the number is either potitive or negative and also if the number is even or odd
+(The number 0 is positive.)

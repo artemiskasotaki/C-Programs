@@ -1,0 +1,1 @@
+This proogram calls function to convert binary numbers to  their decimal form.  

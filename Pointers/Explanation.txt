@@ -1,0 +1,3 @@
+This is a program calculates the sum of three numbers using pointers.
+The user gives from the keyboard three numbers.
+It displays the address where their pointers are pointing at and in the end it finds the sum of the three numbers.

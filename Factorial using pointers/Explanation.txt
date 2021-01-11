@@ -1,0 +1,1 @@
+With the use of pointers this programs finds the factorial of a given number.

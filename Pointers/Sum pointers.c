@@ -17,7 +17,7 @@ int main(void){
 	
 	printf("Address of pointer one %d \n",pn1);
 	printf("Address of pointer two %d \n",pn2);
-	printf("Address of pointer two %d \n",pn3);
+	printf("Address of pointer three %d \n",pn3);
 	
 	sum=*pn1+*pn2+*pn3;
 	

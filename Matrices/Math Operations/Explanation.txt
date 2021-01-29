@@ -1,0 +1,2 @@
+The user imputs the elements of two Matrices. The program displays thows two matrices and then displays 
+the Addiction, the Subtraction and the Multiplication of the two matrices.

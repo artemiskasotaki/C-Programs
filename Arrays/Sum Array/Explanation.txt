@@ -1,0 +1,2 @@
+The user first types how many elements an array will have, than he inputs the elements, one by one and finaly it displays the 
+sum of them.

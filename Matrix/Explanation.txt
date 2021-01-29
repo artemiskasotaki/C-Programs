@@ -1,0 +1,2 @@
+In this program you type the size of a square type matrix and the program displays the 
+given matrix.

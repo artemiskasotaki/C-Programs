@@ -1,0 +1,2 @@
+In this program there is a struct called student. You can incert the last name,the name, the year of birth and the grade for a student.
+In the end it displays the given information.

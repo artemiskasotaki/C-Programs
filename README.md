@@ -17,7 +17,7 @@ This repository contains various C programming exercises, demonstrating key conc
 
 ## Requirements
 
-- A C compiler (e.g., GCC).
+- GCC.
 
 ## Installation
 
